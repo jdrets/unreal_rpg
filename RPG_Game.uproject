@@ -3,17 +3,5 @@
 	"EngineAssociation": "5.4",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
-		},
-		{
-			"Name": "USDImporter",
-			"Enabled": true
-		}
-	]
+	"Plugins": []
 }
